@@ -4,5 +4,3 @@ Hemoglobin-alpha   Human   HBA_HUMAN  P69905
 Hemoglobin-beta    Human   HBB_HUMAN  P68871
 PFKM               Human   PFKAM_HUman P08237
 this is a great a project by Jude
-This is clearly a mistake!
-This clearly another mistake
